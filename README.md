@@ -86,3 +86,22 @@ compatible.
 
 This repository contains project documentation and selected screenshots.
 Application source code, credentials and customer data are not included.
+
+
+## Screenshots
+
+### Customer website
+![Ghefou Cars customer homepage](screenshots/01-public-home.png)
+![Ghefou Cars customer homepage1](screenshots/01-public-home1.png)
+
+### Reservation request
+![Reservation request flow using demonstration data](screenshots/02-about.png)
+
+### Vehicle catalogue
+![Vehicle catalogue and filters](screenshots/03-ourcars.png)
+
+### Administration
+![Agency dashboard using demonstration data](screenshots/04-admin-dashboard.png)
+
+### Mobile experience
+<img src="screenshots/04-phoneversion.png" alt="Ghefou Cars mobile interface" width="360">
