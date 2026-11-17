@@ -1,5 +1,12 @@
 <div align="center">
 
+<div align="center">
+  <img
+    src="./screenshots/ghefou-logo-stacked-dark.png"
+    alt="Ghefou Cars"
+    width="220"
+  />
+</div>
 # Ghefou Cars
 ### Plateforme de location automobile
 
